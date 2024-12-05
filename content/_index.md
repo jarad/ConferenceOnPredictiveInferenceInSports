@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-12-04
 type: landing
 
 design:
@@ -14,7 +14,7 @@ sections:
       text: "**BUILD THE FUTURE TOGETHER WITH AI**"
       details: "June 4-5, 2025"
       primary_action:
-        text: Get Tickets
+        text: Register
         url: https://www.eventbrite.com/
         icon: ticket
       items:
@@ -55,8 +55,11 @@ sections:
     id: about
     content:
       items:
-        - title: THE YEAR’S CAN’T-MISS EVENT FOR AI COLLABORATION
-          text: AI Summit is coming home to San Francisco. Join us at AI Summit 2024 to explore all the cutting-edge innovation the data cloud has to offer.
+        - title: Predictive Inference
+          text: The Department of Statistics at Iowa State University will host a conference on predictive inference and its applications on May 7 and 8, 2018, in Ames, Iowa.
+          
+          The conference is made possible by a gift from David Harville that has established the
+C. R. Henderson Fund for Excellence in Predictive Inference and Its Applications.
           # Upload image to `assets/media/` and reference the filename here
           image: city-daniel-abadia.jpg
         - title: DISCOVER
