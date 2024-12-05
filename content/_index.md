@@ -68,7 +68,7 @@ sections:
     #       # Upload image to `assets/media/` and reference the filename here
     #       image: round-table-evangeline-shaw-xRlI-L-kvrw.jpg
     #       button:
-    #         text: Get Tickets
+    #         text: Register
     #         url: https://www.eventbrite.com/
     # design:
     #   # Section background color (CSS class)

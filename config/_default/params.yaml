@@ -36,10 +36,10 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.png"
     button:
       enable: true
-      text: "Get Tickets"
+      text: "Register"
       url: "https://www.eventbrite.com/"
     show_search: false
     show_theme_chooser: false
