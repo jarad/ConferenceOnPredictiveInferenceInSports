@@ -1,4 +1,6 @@
 ---
+superuser: true
+
 # Display name
 title: Jarad Niemi
 
