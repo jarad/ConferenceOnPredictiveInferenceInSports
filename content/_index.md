@@ -10,22 +10,22 @@ design:
 sections:
   - block: hero-with-stats
     content:
-      title: AI SUMMIT 2024
+      title: Conference on Predicting Inference in Sports
       text: "**BUILD THE FUTURE TOGETHER WITH AI**"
-      details: "May 16, 2024. \n\nEasily create your conference website with [Hugo Blox](https://hugoblox.com/templates/)"
+      details: "June 4-5, 2025"
       primary_action:
         text: Get Tickets
         url: https://www.eventbrite.com/
         icon: ticket
       items:
         - name: "Speakers"
-          description: "300+"
+          description: "20+"
         - name: "Attendees"
-          description: "4,000+"
+          description: "300+"
         - name: "Venue"
-          description: "Moscone Center"
+          description: "Iowa State University"
         - name: "Location"
-          description: "San Francisco"
+          description: "Ames, IA"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -43,8 +43,8 @@ sections:
     content:
       title: "Hurry, Limited Availability"
       text: "EARLY BIRD PRICING ENDS IN"
-      text_after: "SAVE UP TO $1,000!"
-      date: '2000-01-01 00:00:00'
+      text_after: "SAVE $100"
+      date: '2025-05-01 00:00:00'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
