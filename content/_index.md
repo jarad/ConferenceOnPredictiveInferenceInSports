@@ -62,20 +62,20 @@ sections:
 C. R. Henderson Fund for Excellence in Predictive Inference and Its Applications.
           # Upload image to `assets/media/` and reference the filename here
           image: city-daniel-abadia.jpg
-        - title: DISCOVER
-          text: Discover the latest in AI, GenAI, application development and much more.
-          # Upload image to `assets/media/` and reference the filename here
-          image: conference-headway-F2KRf_QfCqw.jpg
-        - title: HEAR FROM LEADERS REDEFINING THE AI LANDSCAPE
-          text: Hear valuable insights from data and AI experts and business leaders, while discovering the limitless possibilities of data, AI and application collaboration for your organization.
-          # Upload image to `assets/media/` and reference the filename here
-          image: round-table-evangeline-shaw-xRlI-L-kvrw.jpg
-          button:
-            text: Get Tickets
-            url: https://www.eventbrite.com/
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+    #     - title: DISCOVER
+    #       text: Discover the latest in AI, GenAI, application development and much more.
+    #       # Upload image to `assets/media/` and reference the filename here
+    #       image: conference-headway-F2KRf_QfCqw.jpg
+    #     - title: HEAR FROM LEADERS REDEFINING THE AI LANDSCAPE
+    #       text: Hear valuable insights from data and AI experts and business leaders, while discovering the limitless possibilities of data, AI and application collaboration for your organization.
+    #       # Upload image to `assets/media/` and reference the filename here
+    #       image: round-table-evangeline-shaw-xRlI-L-kvrw.jpg
+    #       button:
+    #         text: Get Tickets
+    #         url: https://www.eventbrite.com/
+    # design:
+    #   # Section background color (CSS class)
+    #   css_class: "bg-gray-100 dark:bg-gray-900"
   - block: people
     id: speakers
     content:
