@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero-with-stats
     content:
-      title: Conference on Predicting Inference in Sports
+      title: Conference on Predictive Inference in Sports
       text: "**BUILD THE FUTURE TOGETHER WITH AI**"
       details: "June 4-5, 2025"
       primary_action:
