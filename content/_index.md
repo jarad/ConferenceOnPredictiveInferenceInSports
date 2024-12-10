@@ -101,12 +101,12 @@ sections:
       text: |
         **DAY 1**
         {style="padding-top: 2rem"}
-        {{< table path="schedule.csv" header="true" >}}
+        {{< table path="day1.csv" header="true" >}}
         
         **DAY 2**
         {style="padding-top: 2rem"}
 
-        {{< table path="schedule.csv" header="true" >}}
+        {{< table path="day2.csv" header="true" >}}
 #  - block: testimonials
 #    content:
 #      title: ""
