@@ -11,7 +11,7 @@ sections:
   - block: hero-with-stats
     content:
       title: Conference on Predictive Inference in Sports
-      text: "**BUILD THE FUTURE TOGETHER WITH AI**"
+      text: "**Beyond the Stats: Unleashing Predictive Power in Sports**"
       details: "June 4 & 5, 2025"
       primary_action:
         text: Register
@@ -19,9 +19,9 @@ sections:
         icon: ticket
       items:
         - name: "Speakers"
-          description: "20+"
+          description: "??+"
         - name: "Attendees"
-          description: "300+"
+          description: "??+"
         - name: "Venue"
           description: "Iowa State University"
         - name: "Location"
@@ -58,21 +58,21 @@ sections:
         - title: Predictive Inference
           text: The Department of Statistics at Iowa State University will host a conference on predictive inference and its applications on June 4 & 5, 2025, in Ames, Iowa. The conference is made possible by a gift from David Harville that has established the C. R. Henderson Fund for Excellence in Predictive Inference and Its Applications.
           # Upload image to `assets/media/` and reference the filename here
-          image: city-daniel-abadia.jpg
-    #     - title: DISCOVER
-    #       text: Discover the latest in AI, GenAI, application development and much more.
-    #       # Upload image to `assets/media/` and reference the filename here
-    #       image: conference-headway-F2KRf_QfCqw.jpg
-    #     - title: HEAR FROM LEADERS REDEFINING THE AI LANDSCAPE
-    #       text: Hear valuable insights from data and AI experts and business leaders, while discovering the limitless possibilities of data, AI and application collaboration for your organization.
-    #       # Upload image to `assets/media/` and reference the filename here
-    #       image: round-table-evangeline-shaw-xRlI-L-kvrw.jpg
-    #       button:
-    #         text: Register
-    #         url: https://www.eventbrite.com/
-    # design:
-    #   # Section background color (CSS class)
-    #   css_class: "bg-gray-100 dark:bg-gray-900"
+          image: henderson.jpg
+#         - title: DISCOVER
+#           text: Discover the latest in AI, GenAI, application development and much more.
+#           # Upload image to `assets/media/` and reference the filename here
+#           image: conference-headway-F2KRf_QfCqw.jpg
+#         - title: HEAR FROM LEADERS REDEFINING THE AI LANDSCAPE
+#           text: Hear valuable insights from data and AI experts and business leaders, while discovering the limitless #possibilities of data, AI and application collaboration for your organization.
+#           # Upload image to `assets/media/` and reference the filename here
+#           image: round-table-evangeline-shaw-xRlI-L-kvrw.jpg
+#           button:
+#             text: Register
+#             url: https://www.eventbrite.com/
+#     design:
+#       # Section background color (CSS class)
+#       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: people
     id: speakers
     content:
@@ -106,44 +106,44 @@ sections:
         {style="padding-top: 2rem"}
 
         {{< table path="schedule.csv" header="true" >}}
-  - block: testimonials
-    content:
-      title: ""
-      text: ""
-      items:
-        - name: "Alice Smith"
-          role: "Researcher at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "It has to be the most insightful conference I've ever attended!"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
-  - block: logos
-    content:
-      title: "Sponsors Making This Possible"
-      text: "Thanks to the following sponsors for making this incredible event possible!"
-      # Image path relative to assets/media/ folder
-      logo_folder: 'sponsors/'
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
-  - block: newsletter
-    content:
-      title: "Stay up to date"
-      text: "Be the first to receive conference updates such as added speakers, deadlines, and ticket deals."
-      text_cta: "Sign up to our newsletter 🔥"
-      button:
-        text: "Subscribe"
-      convertkit:
-        form_id: ''
-        msg_subscribed: "Success! Please check your email to confirm your subscription."
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+#  - block: testimonials
+#    content:
+#      title: ""
+#      text: ""
+#      items:
+#        - name: "Alice Smith"
+#          role: "Researcher at X"
+#          # Upload image to `assets/media/` and reference the filename here
+#          image: "testimonial-1.jpg"
+#          text: "It has to be the most insightful conference I've ever attended!"
+#    design:
+#      spacing:
+#        # Reduce bottom spacing so the testimonial appears vertically centered between sections
+#        padding: ["6rem", 0, 0, 0]
+#  - block: logos
+#    content:
+#      title: "Sponsors Making This Possible"
+#      text: "Thanks to the following sponsors for making this incredible event possible!"
+#      # Image path relative to assets/media/ folder
+#      logo_folder: 'sponsors/'
+#    design:
+#      card:
+#        # Card background color (CSS class)
+#        css_class: "bg-primary-700"
+#        css_style: ""
+#  - block: newsletter
+#    content:
+#      title: "Stay up to date"
+#      text: "Be the first to receive conference updates such as added speakers, deadlines, and ticket deals."
+#      text_cta: "Sign up to our newsletter 🔥"
+#      button:
+#        text: "Subscribe"
+#      convertkit:
+#        form_id: ''
+#        msg_subscribed: "Success! Please check your email to confirm your subscription."
+#    design:
+#      card:
+#        # Card background color (CSS class)
+#        css_class: "bg-primary-700"
+#        css_style: ""
 ---
