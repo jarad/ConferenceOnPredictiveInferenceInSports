@@ -56,7 +56,8 @@ sections:
     content:
       items:
         - title: Predictive Inference
-          text: The Department of Statistics at Iowa State University will host a conference on predictive inference and its applications on June 4 & 5, 2025, in Ames, Iowa. \n\n The conference is made possible by a gift from [David Harville](https://www.stat.iastate.edu/people/david-harville) that has established the C. R. Henderson Fund for Excellence in Predictive Inference and Its Applications.
+          text: The Department of Statistics at Iowa State University will host a conference on predictive inference and its applications on June 4 & 5, 2025, in Ames, Iowa. 
+          text: The conference is made possible by a gift from [David Harville](https://www.stat.iastate.edu/people/david-harville) that has established the C. R. Henderson Fund for Excellence in Predictive Inference and Its Applications.
           # Upload image to `assets/media/` and reference the filename here
           image: henderson.jpg
 #         - title: DISCOVER
