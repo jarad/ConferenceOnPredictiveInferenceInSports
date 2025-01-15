@@ -32,6 +32,6 @@ user_groups:
   - Speakers
 ---
 
-ameer is an Assistant Professor in Statistics. Originally from Dallas, TX, he has spent the last decade on the East Coast. Prior to Wisconsin, he spent three years at a postdoc with Prof. Tamara Broderick at MIT and completed his Ph.D. and the Wharton School under the supervision of Profs. Ed George and Veronika Rockova.
+Sameer is an Assistant Professor in Statistics. Originally from Dallas, TX, he has spent the last decade on the East Coast. Prior to Wisconsin, he spent three years at a postdoc with Prof. Tamara Broderick at MIT and completed his Ph.D. and the Wharton School under the supervision of Profs. Ed George and Veronika Rockova.
 
 His research interests include Bayesian hierarchical modeling, treed regression, model selection, and causal inference with applications in public health and sports. In his free time, he enjoys cooking, making cocktails, and photography. He is a long-suffering but unapologetic fan of Dallas professional sports teams and you can usually find him wearing a giant Texas belt buckle.
