@@ -29,4 +29,6 @@ user_groups:
   - Speakers
 ---
 
-After leading analytics efforts at the Italian soccer club A.S. Roma, Luke took on the role of VP of Strategy & Analytics for the Sacramento Kings in 2017. He received MIT SSAC research awards in 2015 and 2019, and was on the faculty at Harvard College and Simon Fraser University. He received his M.S. and Ph.D. in Statistics from the University of British Columbia.
+Luke Bornn is the Co-Founder of Zelus Analytics (now Teamworks Intelligence), a pioneering sports analytics company whose intelligence platform helps professional teams unlock the full potential of data-driven decision-making. He is also a co-owner of Toulouse FC, where his leadership contributed to the club’s Ligue 2 title in 2022, promotion to Ligue 1, and French League Cup victory in 2023.
+
+Dr. Bornn’s career spans influential roles, including Vice President of Strategy and Analytics for the Sacramento Kings and Head of Analytics for AS Roma. He has also served as Executive Vice President of RedBall Acquisition Corp, advancing innovation in sports through strategic partnerships. A globally recognized thought leader in analytics, Dr. Bornn has authored dozens of peer-reviewed articles and earned six consecutive MIT Sloan Sports Analytics Conference research award finalist selections.
