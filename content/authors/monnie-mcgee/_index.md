@@ -27,6 +27,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Organizers
+  - Speakers
 ---
 
 Analysis of high throughput biological assays, including flow cytometry, metagenomic, biological pathways, and DNA microarray data; Statistical education.

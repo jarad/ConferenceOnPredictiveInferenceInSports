@@ -29,6 +29,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Organizers
+  - Speakers
 ---
 
 Dr. Michael Schuckers is a leading figure in sports data science, recently appointed as a professor at UNC Charlotte’s School of Data Science. With a prolific career, he has authored numerous papers focusing on data analysis in sports, notably in ice hockey.

@@ -29,6 +29,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Organizers
+  - Speakers
 ---
 
 ameer is an Assistant Professor in Statistics. Originally from Dallas, TX, he has spent the last decade on the East Coast. Prior to Wisconsin, he spent three years at a postdoc with Prof. Tamara Broderick at MIT and completed his Ph.D. and the Wharton School under the supervision of Profs. Ed George and Veronika Rockova.
