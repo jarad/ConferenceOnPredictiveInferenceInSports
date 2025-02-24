@@ -17,8 +17,8 @@ bio: Schuckers is a leading figure in sports data science, recently appointed as
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/x
-    url: https://www.linkedin.com/in/schuckers/
+# - icon: brands/x
+#   url: https://www.linkedin.com/in/schuckers/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/schuckers/
 

@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2024-12-04
+date: 2025-01-27
 type: landing
 
 design:
@@ -19,9 +19,9 @@ sections:
         icon: ticket
       items:
         - name: "Speakers"
-          description: "??+"
+          description: "6+"
         - name: "Attendees"
-          description: "??+"
+          description: "TBD"
         - name: "Venue"
           description: "Iowa State University"
         - name: "Location"
