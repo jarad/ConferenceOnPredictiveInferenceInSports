@@ -16,7 +16,7 @@ bio: Professor Broadie currently teaches the elective courses Security Pricing: 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-# profiles:
+profiles:
 #   - icon: brands/x
 #     url: https://www.linkedin.com/in/schuckers/
   - icon: brands/linkedin
