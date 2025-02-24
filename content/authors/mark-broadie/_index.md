@@ -11,7 +11,7 @@ organizations:
     url: 'https://business.columbia.edu/faculty/people/mark-broadie'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor Broadie currently teaches the elective courses Security Pricing: Models and Computation, Computational Finance, and Programming for Business Research. He is an Academic Advisory Board Member for the Program for Financial Studies.
+bio: 'Professor Broadie currently teaches the elective courses Security Pricing: Models and Computation, Computational Finance, and Programming for Business Research. He is an Academic Advisory Board Member for the Program for Financial Studies.'
 
 
 # Social Networking
