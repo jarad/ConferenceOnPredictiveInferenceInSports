@@ -7,7 +7,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Carnegie Mellon Univeristy
+  - name: Carnegie Mellon University
     url: 'https://www.cmu.edu/dietrich/statistics-datascience/people/phd/quang-nguyen.html'
 
 # Short bio (displayed in user profile at end of posts)
