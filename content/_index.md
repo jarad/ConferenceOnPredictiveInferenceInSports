@@ -68,8 +68,8 @@ sections:
 #           # Upload image to `assets/media/` and reference the filename here
 #           image: round-table-evangeline-shaw-xRlI-L-kvrw.jpg
 #           button:
-#             text: Register
-#             url: https://www.eventbrite.com/
+#             text: Abstract Submission
+#             url: 'https://iastate.qualtrics.com/jfe/form/SV_9yss741KCFfKidE'
 #     design:
 #       # Section background color (CSS class)
 #       css_class: "bg-gray-100 dark:bg-gray-900"
