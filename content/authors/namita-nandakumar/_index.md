@@ -3,8 +3,7 @@
 title: Namita Nandakumar
 
 # Role/position
-role: Namita Nandakumar is currently the Director of Research & Development for the 
-Seattle Kraken.
+role: Namita Nandakumar is currently the Director of Research & Development for the Seattle Kraken.
 
 # Organizations/Affiliations
 organizations:
