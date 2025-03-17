@@ -85,16 +85,16 @@ sections:
       show_role: true
       show_social: true
       show_interests: false
-  - block: people
-    id: organizers
-    content:
-      title: Organizers
-      text: ""
-      user_groups: ['Organizers']
-    design:
-      show_role: true
-      show_social: true
-      show_interests: false
+  # - block: people
+  #   id: organizers
+  #   content:
+  #     title: Organizers
+  #     text: ""
+  #     user_groups: ['Organizers']
+  #   design:
+  #     show_role: true
+  #     show_social: true
+  #     show_interests: false
   - block: markdown
     id: agenda
     content:
