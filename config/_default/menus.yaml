@@ -24,12 +24,12 @@ footer:
     name: Home
     url: /
     weight: 1
-  - identifier: tickets
-    name: Tickets
+  - identifier: registration
+    name: Registration
     weight: 2
-  - parent: tickets
-    name: Get Tickets
-    url: https://www.eventbrite.com/
+  - parent: registration
+    name: Abstract Submission
+    url: https://iastate.qualtrics.com/jfe/form/SV_9yss741KCFfKidE
     weight: 3
   - identifier: legal
     name: Legal

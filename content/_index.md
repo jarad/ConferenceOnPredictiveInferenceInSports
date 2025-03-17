@@ -14,8 +14,8 @@ sections:
       text: "**Beyond the Stats: Unleashing Predictive Power in Sports**"
       details: "June 4 & 5, 2025"
       primary_action:
-        text: Register
-        url: https://www.eventbrite.com/
+        text: Abstract Submission
+        url: https://iastate.qualtrics.com/jfe/form/SV_9yss741KCFfKidE
         icon: ticket
       items:
         - name: "Speakers"
