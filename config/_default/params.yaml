@@ -39,8 +39,8 @@ header:
       filename: "logo.png"
     button:
       enable: true
-      text: "Register"
-      url: "https://www.eventbrite.com/"
+      text: "Abstract Submission"
+      url: "https://iastate.qualtrics.com/jfe/form/SV_9yss741KCFfKidE"
     show_search: false
     show_theme_chooser: false
 
