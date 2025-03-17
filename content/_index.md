@@ -53,6 +53,12 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
+  - block: markdown
+    id: register
+    content:
+      title: Registration
+      text: |
+        {{< table path="registration.csv" header="true" >}}
   - block: cta-image-paragraph
     id: about
     content:
