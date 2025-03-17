@@ -16,6 +16,8 @@ sections:
       primary_action:
         text: Abstract Submission
         url: https://iastate.qualtrics.com/jfe/form/SV_9yss741KCFfKidE
+      primary_action:
+        text: Registration (coming soon)
         icon: ticket
       items:
         - name: "Speakers"

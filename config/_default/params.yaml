@@ -41,6 +41,9 @@ header:
       enable: true
       text: "Abstract Submission"
       url: "https://iastate.qualtrics.com/jfe/form/SV_9yss741KCFfKidE"
+    button:
+      enable: true
+      text: "Register (coming soon)"
     show_search: false
     show_theme_chooser: false
 

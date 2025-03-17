@@ -28,9 +28,12 @@ footer:
     name: Registration
     weight: 2
   - parent: registration
+    name: Registration (coming soon)
+    weight: 3
+  - parent: registration
     name: Abstract Submission
     url: https://iastate.qualtrics.com/jfe/form/SV_9yss741KCFfKidE
-    weight: 3
+    weight: 4
   - identifier: legal
     name: Legal
     weight: 3
