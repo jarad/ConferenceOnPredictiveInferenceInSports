@@ -66,7 +66,7 @@ sections:
           image: henderson.jpg
     design:
       # Section background color (CSS class)
-      css_class: "bg-primary-200"
+      css_class: "bg-primary-500"
 #         - title: DISCOVER
 #           text: Discover the latest in AI, GenAI, application development and much more.
 #           # Upload image to `assets/media/` and reference the filename here
