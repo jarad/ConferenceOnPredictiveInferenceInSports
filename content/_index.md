@@ -80,7 +80,6 @@ sections:
 #             url: 'https://iastate.qualtrics.com/jfe/form/SV_9yss741KCFfKidE'
 #     design:
 #       # Section background color (CSS class)
-#       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: people
     id: speakers
     content:
@@ -91,6 +90,7 @@ sections:
       show_role: true
       show_social: true
       show_interests: false
+      css_class: "bg-gray-100 dark:bg-gray-900"
   # - block: people
   #   id: organizers
   #   content:
