@@ -56,11 +56,9 @@ sections:
   - block: markdown
     id: register
     content:
-      title: Registration (coming soon)
+      title: Registration (link coming soon)
       text: |
         {{< table path="registration.csv" header="true" >}}
-    design:
-      css_class: "bg-primary-500"
   - block: cta-image-paragraph
     id: about
     content:
