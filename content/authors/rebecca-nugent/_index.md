@@ -28,7 +28,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Organizers
 ---
 
 Rebecca Nugent is the Stephen E. and Joyce Fienberg Professor of Statistics & Data Science, the Department Head for the Carnegie Mellon Statistics & Data Science Department, and an affiliated faculty member of the Block Center for Technology and Society. She received her PhD in Statistics from the University of Washington in 2006. Prior to that, she received her B.A. in Mathematics, Statistics, and Spanish from Rice University and her M.S. in Statistics from Stanford University.

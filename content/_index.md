@@ -19,7 +19,7 @@ sections:
         icon: ticket
       items:
         - name: "Speakers"
-          description: "7+"
+          description: "13+"
         - name: "Attendees"
           description: "TBD"
         - name: "Venue"

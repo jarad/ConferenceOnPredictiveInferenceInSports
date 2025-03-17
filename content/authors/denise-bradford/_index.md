@@ -3,7 +3,7 @@
 title: Denise Bradford
 
 # Role/position
-role: Senior Data Scienctist
+role: Senior Data Scientist
 
 # Organizations/Affiliations
 organizations:
