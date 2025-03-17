@@ -15,6 +15,9 @@ main:
     weight: 30
   - name: Agenda
     url: /#agenda
+  - name: Registration
+    url: /#registration
+    weight: 40
 
 footer:
   - identifier: home
