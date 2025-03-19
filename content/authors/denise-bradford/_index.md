@@ -3,14 +3,14 @@
 title: Denise Bradford
 
 # Role/position
-role: Senior Data Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
   - name: University of Nebraska-Lincoln
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Denise Bradford is formerly a Data Scientist at the Detroit Pistons. Currently she is finishing up her PhD at the University of Nebraska - Lincoln.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
