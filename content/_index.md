@@ -65,9 +65,9 @@ sections:
     id: register
     content:
       title: Registration
-      button:
-      text: Register Now
-        url: 'https://go.iastate.edu/EX30VZ'
+      primary_action:
+        text: Register Now
+        url: https://go.iastate.edu/EX30VZ
       text: |
         {{< table path="registration.csv" header="true" >}}
   - block: cta-image-paragraph
