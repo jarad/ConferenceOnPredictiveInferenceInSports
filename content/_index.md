@@ -75,7 +75,7 @@ sections:
     content:
       title: Travel
       text: Closest Airport is [Des Moines International Airport (DSM)](https://www.flydsm.com/) |
-        Hotels: [Courtyard Ames](https://www.marriott.com/event-reservations/reservation-link.mi?id=1744047113955&key=GRP&guestreslink2=true&app=resvlink) and [Comfort Inn & Suites Ames](https://www.choicehotels.com/reservations/groups/KX06H7)
+        Hotels - [Courtyard Ames](https://www.marriott.com/event-reservations/reservation-link.mi?id=1744047113955&key=GRP&guestreslink2=true&app=resvlink) and [Comfort Inn & Suites Ames](https://www.choicehotels.com/reservations/groups/KX06H7)
   - block: cta-image-paragraph
     id: about
     content:
