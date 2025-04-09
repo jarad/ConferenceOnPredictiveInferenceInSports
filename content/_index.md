@@ -64,7 +64,8 @@ sections:
   - block: markdown
     id: register
     content:
-      title: Registration (link coming soon)
+      title: Registration
+      url: 'https://go.iastate.edu/EX30VZ'
       text: |
         {{< table path="registration.csv" header="true" >}}
   - block: cta-image-paragraph
