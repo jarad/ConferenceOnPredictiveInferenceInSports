@@ -49,6 +49,19 @@ sections:
       show_social: true
       show_interests: false
       css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: markdown
+    id: agenda
+    content:
+      title: Agenda
+      text: |
+        **DAY 1**
+        {style="padding-top: 2rem"}
+        {{< table path="day1.csv" header="true" >}}
+        
+        **DAY 2**
+        {style="padding-top: 2rem"}
+
+        {{< table path="day2.csv" header="true" >}}
   - block: countdown
     content:
       title: "Hurry, Limited Availability"
@@ -70,12 +83,17 @@ sections:
         url: https://go.iastate.edu/EX30VZ
       text: |
         {{< table path="registration.csv" header="true" >}}
-  - block: markdown
-    id: travel
-    content:
-      title: Travel
-      text: Closest Airport is [Des Moines International Airport (DSM)](https://www.flydsm.com/) |
-        Hotels - [Courtyard Ames](https://www.marriott.com/event-reservations/reservation-link.mi?id=1744047113955&key=GRP&guestreslink2=true&app=resvlink) and [Comfort Inn & Suites Ames](https://www.choicehotels.com/reservations/groups/KX06H7)
+  # - block: markdown
+  #   id: travel
+  #   content:
+  #     title: Travel
+  #     text: Airport [Des Moines International Airport (DSM)](https://www.flydsm.com/) 
+  # 
+  #       - Hotels 
+  #           - [Courtyard Ames](https://www.marriott.com/event-reservations/reservation-link.mi?id=1744047113955&key=GRP&guestreslink2=true&app=resvlink) 
+  #           - [Comfort Inn & Suites Ames](https://www.choicehotels.com/reservations/groups/KX06H7)
+  #           
+  #           <iframe src="https://www.google.com/maps/d/embed?mid=1Jvhp-2Ait3d_wJYGjmC6HVSScJZnqm8&ehbc=2E312F" width="640" height="480"></iframe>
   - block: cta-image-paragraph
     id: about
     content:
@@ -110,19 +128,7 @@ sections:
   #     show_role: true
   #     show_social: true
   #     show_interests: false
-  - block: markdown
-    id: agenda
-    content:
-      title: Agenda
-      text: |
-        **DAY 1**
-        {style="padding-top: 2rem"}
-        {{< table path="day1.csv" header="true" >}}
-        
-        **DAY 2**
-        {style="padding-top: 2rem"}
-
-        {{< table path="day2.csv" header="true" >}}
+  
 #  - block: testimonials
 #    content:
 #      title: ""
@@ -164,3 +170,4 @@ sections:
 #        css_class: "bg-primary-700"
 #        css_style: ""
 ---
+
