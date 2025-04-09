@@ -70,6 +70,11 @@ sections:
         url: https://go.iastate.edu/EX30VZ
       text: |
         {{< table path="registration.csv" header="true" >}}
+  - block: markdown
+    id: travel
+    content:
+      title: Travel
+      text: Closest Airport is [Des Moines International Airport (DSM)](https://www.flydsm.com/) 
   - block: cta-image-paragraph
     id: about
     content:
