@@ -19,6 +19,9 @@ main:
   - name: Register
     url: /#register
     weight: 50
+  - name: Travel
+    url: /travel/
+    weight: 60
 
 footer:
   - identifier: home
@@ -32,7 +35,8 @@ footer:
     name: Registration
     weight: 2
   - parent: registration
-    name: Registration (coming soon)
+    name: Registration
+    url: https://go.iastate.edu/EX30VZ
     weight: 3
   - parent: registration
     name: Abstract Submission

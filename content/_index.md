@@ -83,17 +83,6 @@ sections:
         url: https://go.iastate.edu/EX30VZ
       text: |
         {{< table path="registration.csv" header="true" >}}
-  # - block: markdown
-  #   id: travel
-  #   content:
-  #     title: Travel
-  #     text: Airport [Des Moines International Airport (DSM)](https://www.flydsm.com/) 
-  # 
-  #       - Hotels 
-  #           - [Courtyard Ames](https://www.marriott.com/event-reservations/reservation-link.mi?id=1744047113955&key=GRP&guestreslink2=true&app=resvlink) 
-  #           - [Comfort Inn & Suites Ames](https://www.choicehotels.com/reservations/groups/KX06H7)
-  #           
-  #           <iframe src="https://www.google.com/maps/d/embed?mid=1Jvhp-2Ait3d_wJYGjmC6HVSScJZnqm8&ehbc=2E312F" width="640" height="480"></iframe>
   - block: cta-image-paragraph
     id: about
     content:
