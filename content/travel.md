@@ -13,7 +13,7 @@ The closest airport is
 
 Travel from the airport to Ames can be accomplished via a 
 [rental car](https://www.flydsm.com/at-the-airport/ground-transportation/car-rentals) or 
-[Executive Express](https://www.executiveexpress.biz/). 
+[Executive Express](https://www.executiveexpress.biz/) (~$190 one-way). 
 
 ### Hotels
 
