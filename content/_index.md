@@ -67,7 +67,7 @@ sections:
       title: "Hurry, Limited Availability"
       text: "EARLY BIRD PRICING ENDS IN"
       text_after: "SAVE $100"
-      date: '2025-05-01 00:00:00'
+      date: '2025-05-08 00:00:00'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
