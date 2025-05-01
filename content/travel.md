@@ -11,9 +11,9 @@ Ames is located approximately 45 minutes north of Des Moines, IA.
 The closest airport is 
 [Des Moines International Airport (DSM)](https://www.flydsm.com/).
 
-Travel from the airport to Ames can be accomplished via  
+Travel to/from the airport to Ames can be accomplished via  
 
-- conference-provided transportation (if you are interested, please complete this survey [coming soon]),
+- conference-provided transportation (if interested, [complete this survey](https://forms.office.com/r/dL46ScQSux)),
 - [rental car](https://www.flydsm.com/at-the-airport/ground-transportation/car-rentals), 
 - [Executive Express](https://www.executiveexpress.biz/) (~$190 one-way). 
 
