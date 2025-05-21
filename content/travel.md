@@ -21,8 +21,8 @@ Travel to/from the airport to Ames can be accomplished via
 
 There are two conference hotels for the event:
 
-- [Comfort Inn & Suites ($109/night until May 03 )](https://www.choicehotels.com/reservations/groups/KX06H7)
-- [Courtyard Ames ($119/night until May 13)](https://www.marriott.com/event-reservations/reservation-link.mi?id=1744047113955&key=GRP&guestreslink2=true&app=resvlink)
+- [Comfort Inn & Suites](https://www.choicehotels.com/reservations/groups/KX06H7)
+- [Courtyard Ames](https://www.marriott.com/event-reservations/reservation-link.mi?id=1744047113955&key=GRP&guestreslink2=true&app=resvlink)
 
 Hotels are approximately 2 miles from the ISU Alumni Center. 
 

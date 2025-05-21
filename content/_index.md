@@ -18,9 +18,9 @@ sections:
         url: https://iastate.qualtrics.com/jfe/form/SV_9yss741KCFfKidE
       items:
         - name: "Speakers"
-          description: "13+"
+          description: "15"
         - name: "Attendees"
-          description: "TBD"
+          description: "50+"
         - name: "Venue"
           description: "Iowa State University"
         - name: "Location"
@@ -64,10 +64,10 @@ sections:
         {{< table path="day2.csv" header="true" >}}
   - block: countdown
     content:
-      title: "Hurry, Limited Availability"
-      text: "EARLY BIRD PRICING ENDS IN"
-      text_after: "SAVE $100"
-      date: '2025-05-08 00:00:00'
+      title: ""
+      text: "Conference Starts:"
+      # text_after: "SAVE $100"
+      date: '2025-06-04 00:00:00'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
