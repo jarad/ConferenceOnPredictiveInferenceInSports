@@ -49,19 +49,19 @@ sections:
       show_social: true
       show_interests: false
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: markdown
-    id: agenda
-    content:
-      title: Agenda
-      text: |
-        **DAY 1**
-        {style="padding-top: 2rem"}
-        {{< table path="day1.csv" header="true" >}}
-        
-        **DAY 2**
-        {style="padding-top: 2rem"}
-
-        {{< table path="day2.csv" header="true" >}}
+  # - block: markdown
+  #   id: agenda
+  #   content:
+  #     title: Agenda
+  #     text: |
+  #       **DAY 1**
+  #       {style="padding-top: 2rem"}
+  #       {{< table path="day1-1.csv" header="true" >}}
+  #       
+  #       **DAY 2**
+  #       {style="padding-top: 2rem"}
+  # 
+  #       {{< table path="day2-1.csv" header="true" >}}
   - block: countdown
     content:
       title: ""

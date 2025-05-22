@@ -14,7 +14,7 @@ main:
     url: /#speakers
     weight: 30
   - name: Agenda
-    url: /#agenda
+    url: /agenda/
     weight: 40
   - name: Register
     url: /#register
