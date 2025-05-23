@@ -14,7 +14,7 @@ Time|Event|Speaker|Title
 8:00|Breakfast||
 8:45|Opening Remarks|Jamie Pollard|
 9:00|Session I|Denise Bradford|TBA
-9:30||Mark Broadie|TBA
+9:30||Mark Broadie|Ranking Systems for Golf and Other Sports
 10:00||Nathan Sandholtz|An Experiment to Investigate the Spatial Component of Serving Strategy in Tennis
 10:30|Break||
 11:00|Keynote|Luke Bornn|From Pixels to Points: Predicting Performance in Professional Sports
