@@ -84,6 +84,12 @@ sections:
       text: |
         {{< table path="registration.csv" header="true" >}}
   - block: cta-image-paragraph
+    id: sponsors
+    content:
+      items:
+        - title: Athlyticz
+          image: log-large-athlyticz.png
+  - block: cta-image-paragraph
     id: about
     content:
       items:
