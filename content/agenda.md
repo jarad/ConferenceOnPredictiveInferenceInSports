@@ -20,7 +20,7 @@ Time|Event|Speaker|Title
 11:00|Keynote|Luke Bornn|From Pixels to Points: Predicting Performance in Professional Sports
 12:00|Lunch||
 1:30|Session II|Katerina Wu|Which League is Best? Using Paired Comparison Models to Estimate Hockey League Strength and Project Player Performance
-2:00||Michael Schuckers|Estimating player age curves using regression and imputation
+2:00||Michael Schuckers|Estimating Player Age Curves Using Regression and Imputation
 2:30||Namita Nandakumar|Twitter Is Real Life? Translating Student Research To Team Decision-Making
 3:00|Jack Trice Stadium Tour||
 4:00|Poster Session and Appetizers||
@@ -34,10 +34,10 @@ Time|Event|Speaker|Title
 9:30||Monnie McGee|Layered Dirichlet Modeling to Assess the Changing Contributions of MLB Players as they Age
 10:00||Jim Albert|Prediction in Baseball -- Understanding Streaky Hitting and the Increase in Home Run Hitting
 10:30|Break||
-11:00|Keynote|Sara Ziegler|TBA
+11:00|Keynote|Sara Ziegler|Stats for Normies: How to Explain Predictive Inference in Sports to an Innumerate Public (or Even Just Your Boss)
 12:00|Lunch||
 1:30|Session IV|Sameer Deshpande|Expected Hypothetical Completion Probability
-2:00||Ron Yurko|NFL Ghosts: A framework for evaluating defender positioning with conditional density estimation
-2:30||Quang Nguyen|Step-and-turn modeling of individual player movement in American football
+2:00||Ron Yurko|NFL Ghosts: A Framework for Evaluating Defender Positioning with Conditional Density Estimation
+2:30||Quang Nguyen|Step-and-Turn Modeling of Individual Player Movement in American Football
 3:00|Closing||
 
