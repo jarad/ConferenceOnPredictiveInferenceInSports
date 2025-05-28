@@ -10,7 +10,7 @@ organizations:
   - name: United States Olympic & Paralympic Committee
 
 # Short bio (displayed in user profile at end of posts)
-bio: Suraj Bhuva has a BS in Mathematics and an MS in Artificial Intelligence from the University of Texas at Austin. He spent a decade as a quantitative trade before becoming a Performance Data Scientist with the United States Olympic & Paralympic Committee.
+bio: Suraj Bhuva is a data scientist on the Performance Innovation team at the United States Olympic and Paralympic Committee working on answering critical performance questions for Team USA athletes and NGBs. Prior to joining the USOPC, Suraj worked as a quantitative trader for 8 years where he designed automated trading systems which executed hundreds of thousands of trades a day in energy markets. His current work at the USOPC revolves around the development and improvement of algorithms and predictive models to deliver actionable insights for Performance Analytics initiatives.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
