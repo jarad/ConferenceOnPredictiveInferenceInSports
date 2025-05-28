@@ -11,7 +11,7 @@ organizations:
     url: 'https://www.nytimes.com/by/sara-ziegler'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an editor with a passion for language and collaboration. Throughout my career, I have developed a focus on organizational process, clearing out obstacles so that everyone can do their best work. 
+bio: Sara Ziegler is the sports content editor at The New York Times and the former sports editor at FiveThirtyEight. 
 
 
 # Social Networking
@@ -32,4 +32,4 @@ user_groups:
   - Speakers
 ---
 
-I'm an editor with a passion for language and collaboration. Throughout my career, I have developed a focus on organizational process, clearing out obstacles so that everyone can do their best work. 
+Sara Ziegler is the sports content editor at The New York Times and the former sports editor at FiveThirtyEight. She is a native of South Dakota, an alumna of Iowa State, a proud fan of the world champion New York Liberty and a long-suffering fan of the Minnesota Twins and Vikings.

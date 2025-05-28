@@ -10,7 +10,7 @@ organizations:
   - name: Pittsburgh Penguins
 
 # Short bio (displayed in user profile at end of posts)
-bio: Katerina Wu has a Bachelor of Arts in Economics and a double minor in Computer Science and Statistics from the University of North Carolina at Chapel Hill. She is currently Senior Data Scientist wit hthe Pittsburgh Penguins.
+bio: Katerina Wu has a Bachelor of Arts in Economics and a double minor in Computer Science and Statistics from the University of North Carolina at Chapel Hill. 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -29,4 +29,5 @@ user_groups:
   - Speakers
 ---
 
+Katerina Wu was the senior data scientist for the Pittsburgh Penguins, and was the first woman hired to work on their hockey operations side. Prior to working with the Penguins, she was a data science intern at Sports Media Technology where she had the opportunity to familiarize herself with NHL player puck tracking data. She graduated from UNC-Chapel Hill with a degree in Economics and a double minor in Statistics and Computer Science.
 

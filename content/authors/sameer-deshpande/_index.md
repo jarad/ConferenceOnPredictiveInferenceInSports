@@ -11,7 +11,7 @@ organizations:
     url: 'https://stat.wisc.edu/staff/deshpande-sameer/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Schuckers is a leading figure in sports data science, recently appointed as a professor at UNC Charlotte’s School of Data Science. With a prolific career, he has authored numerous papers focusing on data analysis in sports, notably in ice hockey.
+bio: Sameer is an Assistant Professor in the Department of Statistics at the University of Wisconsin–Madison.
 
 
 # Social Networking
@@ -32,6 +32,4 @@ user_groups:
   - Speakers
 ---
 
-Sameer is an Assistant Professor in Statistics. Originally from Dallas, TX, he has spent the last decade on the East Coast. Prior to Wisconsin, he spent three years at a postdoc with Prof. Tamara Broderick at MIT and completed his Ph.D. and the Wharton School under the supervision of Profs. Ed George and Veronika Rockova.
-
-His research interests include Bayesian hierarchical modeling, treed regression, model selection, and causal inference with applications in public health and sports. In his free time, he enjoys cooking, making cocktails, and photography. He is a long-suffering but unapologetic fan of Dallas professional sports teams and you can usually find him wearing a giant Texas belt buckle.
+Sameer is an Assistant Professor in the Department of Statistics at the University of Wisconsin–Madison. He previously worked as a post-doctoral associate at MIT and earned his Ph.D. from the Wharton School of the University of Pennsylvania. His research interests include Bayesian hierarchical modeling, Bayesian additive regression trees, model selection, and causal inference. Much of his methodological work is motivated by an interest in understanding the long-term health consequences of playing American-style tackle football.

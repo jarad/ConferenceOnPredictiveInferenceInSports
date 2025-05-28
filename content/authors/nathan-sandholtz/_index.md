@@ -11,7 +11,7 @@ organizations:
     url: 'https://statistics.byu.edu/directory/sandholtz-nate'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m an assistant professor of statistics at Brigham Young University. My research is currently focused on statistical connections to inverse optimization and applications of statistics in sport.
+bio: Nate Sandholtz is an Assistant Professor in the Department of Statistics at Brigham Young University in Provo, Utah.  
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -28,5 +28,4 @@ user_groups:
   - Speakers
 ---
 
-I’m an assistant professor of statistics at Brigham Young University. My research is currently focused on statistical connections to inverse optimization and applications of statistics in sport.
-
+Nate Sandholtz is an Assistant Professor in the Department of Statistics at Brigham Young University in Provo, Utah.  Previously he was a postdoctoral fellow in the Department of Mechanical and Industrial Engineering at the University of Toronto and a basketball operations analyst for the Sacramento Kings.  He got his PhD in statistics from Simon Fraser University in 2020.  He's interested in applying statistical methods to study decision making, and much of his research has been in sports contexts.

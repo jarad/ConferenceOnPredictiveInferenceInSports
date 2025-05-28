@@ -11,7 +11,7 @@ organizations:
     url: 'https://bayesball.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jim Albert is Emeritus Professor, Department of Mathematics and Statistics, Bowling Green State University. He has interests in Bayesian modeling, statistics education and the application of statistical thinking in sports.
+bio: Jim Albert received his PhD degree from Purdue University in 1979 and spent his entire academic career at the Department of Mathematics and Statistics at Bowling Green State University.  His research interests are in Bayesian modeling, the analysis of sports data, and statistical education.  Retirement activities include tennis and a part-time analyst position with the Houston Astros.
 
 
 # Social Networking
@@ -31,5 +31,5 @@ user_groups:
   - Speakers
 ---
 
-Jim Albert is Emeritus Professor, Department of Mathematics and Statistics, Bowling Green State University. He has interests in Bayesian modeling, statistics education and the application of statistical thinking in sports.
+Jim Albert received his PhD degree from Purdue University in 1979 and spent his entire academic career at the Department of Mathematics and Statistics at Bowling Green State University.  His research interests are in Bayesian modeling, the analysis of sports data, and statistical education.  Retirement activities include tennis and a part-time analyst position with the Houston Astros.
 

@@ -11,9 +11,7 @@ organizations:
     url: 'https://www.stat.cmu.edu/~ryurko/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ron Yurko is an Assistant Teaching Professor in the Department of Statistics & Data Science at Carnegie Mellon University. His research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in sports analytics and natural language processing. He is also the Director of the Carnegie Mellon Sports Analytics Center (CMSAC) and maintains a Substack called Statistical Thinking in Sports Analytics.
-
-
+bio: Ron Yurko is an Assistant Teaching Professor in the Department of Statistics & Data Science at Carnegie Mellon University, and is the Director of the Carnegie Mellon Sports Analytics Center. 
 
 
 # Social Networking
@@ -35,6 +33,4 @@ user_groups:
   - Speakers
 ---
 
-Ron Yurko is an Assistant Teaching Professor in the Department of Statistics & Data Science at Carnegie Mellon University. His research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in sports analytics and natural language processing.
-He is also the Director of the Carnegie Mellon Sports Analytics Center (CMSAC)
-and maintains a Substack called Statistical Thinking in Sports Analytics.
+Ron Yurko is an Assistant Teaching Professor in the Department of Statistics & Data Science at Carnegie Mellon University, and is the Director of the Carnegie Mellon Sports Analytics Center. His research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in sports analytics and natural language processing. His work has been featured in popular media outlets such as The Athletic, FiveThirtyEight, The Wall Street Journal, and The Washington Post. He is a three-time degree holder from Carnegie Mellon: with a bachelors, masters, and PhD in Statistics. He also has industry experience in both finance and professional sports.

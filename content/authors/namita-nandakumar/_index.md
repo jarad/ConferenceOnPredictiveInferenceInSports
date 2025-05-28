@@ -28,5 +28,4 @@ user_groups:
   - Speakers
 ---
 
-Namita Nandakumar is currently the Director of Research & Development for the 
-Seattle Kraken.
+Namita Nandakumar is the Director of Research & Development for the Seattle Kraken, where she oversees the processing, analysis, and communication of data to inform hockey operations decision-making. She joined the team in 2020 to help prepare for the 2021 Expansion and Entry Drafts. Namita previously spent two seasons as a Quantitative Analyst for the Philadelphia Eagles after graduating from Wharton with a B.S. in Economics and a concentration in Statistics. She has also written publicly about sports analytics research for FiveThirtyEight, The Athletic Philadelphia and Hockey Graphs.
