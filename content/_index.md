@@ -83,6 +83,17 @@ sections:
         url: https://go.iastate.edu/EX30VZ
       text: |
         {{< table path="registration.csv" header="true" >}}
+  - block: logos
+    id: sponsors
+    content:
+      text: "Sponsored by ..."
+      title: "Thanks to our sponsors for making this event possible!"
+      # Image path relative to assets/media/ folder
+      logo_folder: 'sponsors/'
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-gray-100"
   - block: cta-image-paragraph
     id: about
     content:

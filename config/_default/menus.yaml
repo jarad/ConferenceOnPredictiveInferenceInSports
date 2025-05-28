@@ -7,8 +7,8 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: About
-    url: /#about
+  - name: Sponsors
+    url: /#sponsors
     weight: 20
   - name: Speakers
     url: /#speakers
