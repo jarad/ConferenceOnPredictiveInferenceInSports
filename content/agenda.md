@@ -13,7 +13,7 @@ Time|Event|Speaker|Title
 ----|-----|-------|-----
 8:00|Breakfast||
 8:45|Opening Remarks|Jamie Pollard|
-9:00|Session I|Denise Bradford|TBA
+9:00|Session I|Denise Bradford|Integrating Athlete Signals, Schedule Density, and Rookie Development within a Predictive Inference Framework
 9:30||Mark Broadie|Ranking Systems for Golf and Other Sports
 10:00||Nathan Sandholtz|An Experiment to Investigate the Spatial Component of Serving Strategy in Tennis
 10:30|Break||
