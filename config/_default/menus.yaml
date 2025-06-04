@@ -16,6 +16,9 @@ main:
   - name: Agenda
     url: /agenda/
     weight: 40
+  - name: Program
+    url: "Conference on Predictive Inference in Sports - Program.pdf"
+    weight: 45
   - name: Register
     url: /#register
     weight: 50
