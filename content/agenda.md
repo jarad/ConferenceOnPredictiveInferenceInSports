@@ -7,6 +7,8 @@ share: false
 Events will occur at or near the 
 [Iowa State University Alumni Center](https://www.isualumnicenter.org/s/565/20/interior-subnav.aspx)
 
+[Digital Program is available here](<../Conference on Predictive Inference in Sports - Program.pdf>)
+
 ### Day 1 - June 4
 
 Time|Event|Speaker|Title
